@@ -24,6 +24,7 @@
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
+
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.1100.4",
     "@angular/cli": "~11.0.4",
