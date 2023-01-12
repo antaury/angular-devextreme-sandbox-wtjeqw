@@ -3,18 +3,18 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
-    "rxjs": "6.2.0",
-    "core-js": "2.5.7",
-    "zone.js": "0.8.26",
-    "devextreme": "22.1.4",
+    "@angular/common": "6.0.3",
+    "@angular/compiler": "6.0.3",
     "@angular/core": "6.0.3",
     "@angular/forms": "6.0.3",
-    "@angular/common": "6.0.3",
-    "@angular/router": "6.0.3",
-    "@angular/compiler": "6.0.3",
-    "devextreme-angular": "22.1.4",
     "@angular/platform-browser": "6.0.3",
-    "@angular/platform-browser-dynamic": "6.0.3"
+    "@angular/platform-browser-dynamic": "6.0.3",
+    "@angular/router": "6.0.3",
+    "core-js": "2.5.7",
+    "devextreme": "^22.2.3",
+    "devextreme-angular": "^22.2.3",
+    "rxjs": "6.2.0",
+    "zone.js": "0.8.26"
   },
   "scripts": {
     "ng": "ng",
@@ -24,7 +24,6 @@
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
-
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.1100.4",
     "@angular/cli": "~11.0.4",
